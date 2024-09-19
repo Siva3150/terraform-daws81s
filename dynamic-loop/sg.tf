@@ -25,6 +25,6 @@ resource "aws_security_group" "allow_ssh_terraform" {
 
 
     tags = {
-        Name = "allow_sshh"
+        Name = "dynamic_loop"
     }
 }
